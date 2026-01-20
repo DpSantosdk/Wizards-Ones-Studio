@@ -1,0 +1,5 @@
+{
+  "name": "Wizards Ones Card Maker",
+  "description": "A retro-styled card creation tool for the Wizards Ones tabletop game, featuring mechanic configuration, dice-cast previews, and PNG export.",
+  "requestFramePermissions": []
+}
